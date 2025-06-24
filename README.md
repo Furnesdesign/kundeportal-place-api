@@ -1,1 +1,1 @@
-# kundeportal-place-api
+Google Place API Proxy
