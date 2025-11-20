@@ -8,7 +8,7 @@ const API_KEY = process.env.GOOGLE_PLACES_API_KEY;
 
 const allowedOrigins = [
   'https://kunda-demo.webflow.io',
-  'https://kunda-fremmi.webflow.io',
+  'https://www.fremmi.no',
   // legg til flere domener her. Ikke ta med / etter top level domain
 ];
 
@@ -54,6 +54,7 @@ app.get('/getPlaceDetails', async (req, res) => {
 app.listen(PORT, () => {
   console.log(`Server is running on port ${PORT}`);
 });
+
 
 
 
