@@ -10,6 +10,7 @@ const allowedOrigins = [
   'https://kunda-demo.webflow.io',
   'https://www.fremmi.no',
   'https://app.gohighlevel.com',
+  'https://www.favnia.no',
   // legg til flere domener her. Ikke ta med / etter top level domain
 ];
 
@@ -55,6 +56,7 @@ app.get('/getPlaceDetails', async (req, res) => {
 app.listen(PORT, () => {
   console.log(`Server is running on port ${PORT}`);
 });
+
 
 
 
