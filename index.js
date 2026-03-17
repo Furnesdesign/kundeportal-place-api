@@ -11,6 +11,7 @@ const allowedOrigins = [
   'https://www.fremmi.no',
   'https://app.gohighlevel.com',
   'https://www.favnia.no',
+  'https://favnia.webflow.io',
   // legg til flere domener her. Ikke ta med / etter top level domain
 ];
 
