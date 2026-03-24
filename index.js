@@ -10,8 +10,7 @@ const allowedOrigins = [
   'https://kunda-demo.webflow.io',
   'https://www.fremmi.no',
   'https://app.gohighlevel.com',
-  'https://www.favnia.no',
-  'https://favnia.webflow.io'
+  'https://www.favnia.no'
   // legg til flere domener her. Ikke ta med / etter top level domain
 ];
 
