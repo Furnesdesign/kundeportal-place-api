@@ -9,7 +9,7 @@ const API_KEY = process.env.GOOGLE_PLACES_API_KEY;
 const allowedOrigins = [
   'https://kunda-demo.webflow.io',
   'https://www.fremmi.no',
-  'https://app.gohighlevel.com',
+  'https://favnia.webflow.io/',
   'https://www.favnia.no'
   // legg til flere domener her. Ikke ta med / etter top level domain
 ];
